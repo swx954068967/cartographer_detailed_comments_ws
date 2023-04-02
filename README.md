@@ -29,9 +29,10 @@ vscode中推荐的插件有:
 ## 3 运行相关命令
 
 其中的bag文件可以在我的公众号: 从零开始搭SLAM  里找到，在底部菜单栏的数据集链接里
-Cartographer代码结构高清图链接：https://pan.baidu.com/s/1gqjdorqyErp12hQ6qYqa1w 提取码：rtvj
-或：
-链接: https://pan.baidu.com/s/16Zkg9JeUUOdZ3VnsOA-pvw?pwd=4zg9 提取码: 4zg9 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+链接: https://pan.baidu.com/s/1-l0LgUFzj8ejxESh9EUWEA?pwd=r5q5 提取码: r5q5 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+https://docs.qq.com/sheet/DVElRQVNlY0tHU01I?tab=BB08J2
 
 
 ### 2d建图指令
